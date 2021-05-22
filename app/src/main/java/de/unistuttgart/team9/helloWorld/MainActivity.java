@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
     private Button button0,button1, button2, button3, button4, button5, button6, button7, button8, button9, buttonDot, buttonClear, buttonAdd, buttonSub, buttonMul, buttonDiv, buttonSum;
 
+    /* Test */
+
     private EditText edit1;
     private Float value1, value2, valueSum, tempValue;
     private Boolean calAdd = false, calSub = false, calMul = false, calDiv = false, calOperation = false;
